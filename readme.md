@@ -35,6 +35,17 @@ In the ever-evolving world of cryptocurrency, privacy remains a paramount concer
 - **Strict No-KYC Policy:** Ensuring complete anonymity for its users.
 - **Refunds Without KYC:** Hassle-free refunds without the need for identity verification.
 
+## 4. [NOT]KYC
+
+[[NOT]KYC](https://notkyc.life) is a directory and live-rate comparison for no-KYC crypto exchanges — it helps you find the cheapest and most trustworthy way to swap without ID.
+
+- **No Account, No ID:** Compare and swap across no-KYC exchanges with no signup, email or KYC.
+- **Live Rate Comparison:** Real-time swap rates from 17+ anonymous exchanges for hundreds of pairs (BTC → XMR, ETH → BTC, USDT → XMR and more).
+- **Privacy & Trust Scores:** Every exchange gets a transparent privacy and trust rating.
+- **No-KYC Track Record:** Community-verified history of whether each exchange actually asked for ID.
+- **No Logs, No Tracking:** No third-party trackers; reachable over Tor and I2P.
+
+
 ## Conclusion
 
 The rise of no KYC crypto exchanges reflects the crypto community's growing desire for anonymity and privacy in financial transactions. BitConsider, Unstoppable Swap, and Bisq lead the charge in 2024, offering secure, private, and user-friendly platforms for trading cryptocurrencies without the need for KYC verification. Whether you're seeking to swap Bitcoin for Monero or trade bitcoin for fiat currencies, these exchanges provide the tools and policies to ensure your trading activities remain confidential and secure.
