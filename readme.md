@@ -35,6 +35,16 @@ In the ever-evolving world of cryptocurrency, privacy remains a paramount concer
 - **Strict No-KYC Policy:** Ensuring complete anonymity for its users.
 - **Refunds Without KYC:** Hassle-free refunds without the need for identity verification.
 
+# xmrs.io
+
+[xmrs.io](https://xmrs.io) is a privacy-focused cryptocurrency exchange specializing in Monero and private crypto-to-crypto swaps.
+
+* **Monero Focused:** Built specifically around Monero and privacy-oriented cryptocurrency exchanges.
+* **No KYC:** Swap supported cryptocurrencies without mandatory identity verification.
+* **Privacy First:** Designed to minimize unnecessary user data collection and preserve transaction privacy.
+* **Non-Custodial:** Funds are sent directly to the user's wallet without maintaining a custodial balance.
+* **Simple Swaps:** Fast and straightforward crypto-to-crypto exchanges without account registration.
+
 ## Conclusion
 
 The rise of no KYC crypto exchanges reflects the crypto community's growing desire for anonymity and privacy in financial transactions. BitConsider, Unstoppable Swap, and Bisq lead the charge in 2024, offering secure, private, and user-friendly platforms for trading cryptocurrencies without the need for KYC verification. Whether you're seeking to swap Bitcoin for Monero or trade bitcoin for fiat currencies, these exchanges provide the tools and policies to ensure your trading activities remain confidential and secure.
