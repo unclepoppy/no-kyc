@@ -35,6 +35,24 @@ In the ever-evolving world of cryptocurrency, privacy remains a paramount concer
 - **Strict No-KYC Policy:** Ensuring complete anonymity for its users.
 - **Refunds Without KYC:** Hassle-free refunds without the need for identity verification.
 
+  ## 2. Swapuz
+
+[Swapuz](https://swapuz.com/) is a non-custodial cryptocurrency exchange offering fast and private crypto-to-crypto swaps with its own liquidity and no registration required.
+
+- **No Registration Needed:** Start exchanging cryptocurrencies immediately without creating an account.
+- **No Mandatory KYC:** Standard swaps can be completed without identity verification.
+- **Own Liquidity:** Swapuz maintains its own liquidity to provide competitive rates and reliable exchange execution.
+- **Non-Custodial:** Users retain control of their funds and exchange directly to their own wallets.
+- **Fixed & Floating Rates:** Choose between fixed-rate and floating-rate exchanges.
+- **No Account Required:** Exchange crypto directly without maintaining a custodial balance.
+- **Fast Exchanges:** Complete most swaps quickly, depending on blockchain confirmation times.
+- **High Limits:** Support for large-volume cryptocurrency exchanges.
+- **Wide Cryptocurrency Support:** Exchange a broad range of cryptocurrencies and blockchain networks.
+- **API Available:** Integrate Swapuz exchange functionality into your own applications and services.
+- **24/7 Support:** Customer support is available around the clock.
+- **No Hidden Fees:** Exchange fees and transaction details are shown before completing a swap.
+
+
 ## Conclusion
 
 The rise of no KYC crypto exchanges reflects the crypto community's growing desire for anonymity and privacy in financial transactions. BitConsider, Unstoppable Swap, and Bisq lead the charge in 2024, offering secure, private, and user-friendly platforms for trading cryptocurrencies without the need for KYC verification. Whether you're seeking to swap Bitcoin for Monero or trade bitcoin for fiat currencies, these exchanges provide the tools and policies to ensure your trading activities remain confidential and secure.
